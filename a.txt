@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+Dongvantuan
 soisumi
 201
 80
-=======
->>>>>>> parent of c8df698 (sois)
+
